@@ -1,6 +1,6 @@
 package eclipcepkg;
 
-public class Class_A {
+public class Class_D {
 	
 	public  void Test1() {
 		
