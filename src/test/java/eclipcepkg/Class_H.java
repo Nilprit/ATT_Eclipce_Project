@@ -1,11 +1,11 @@
 package eclipcepkg;
 
-public class Class_A {
+public class Class_H {
 	
 	public  void Test1() {
 		
 		
-		System.out.println("Test12311");
+		System.out.println("Test123");
 		
 	}
 
